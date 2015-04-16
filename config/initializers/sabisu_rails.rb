@@ -3,7 +3,7 @@
 SabisuRails.setup do |config|
 
   # Base uri for posting the 
-  config.base_api_uri = 'api-rails-devtheory.c9.io' 
+  config.base_api_uri = 'api.api-rails-devtheory.c9.io' 
 
   # Ignored attributes for building the forms
   # config.ignored_attributes = %w{ created_at updated_at id }
